@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Spencer J Damiano</title>
+        <link>https://spencerjdamiano.com/</link>
+        <description>This is My Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>spencer.damiano@gmail.com (Spencer John Damiano)</managingEditor>
+            <webMaster>spencer.damiano@gmail.com (Spencer John Damiano)</webMaster>
+            <atom:link href="https://spencerjdamiano.com/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
