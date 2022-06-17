@@ -1,7 +1,7 @@
 ---
 title: "BIRD-geoisie_Vision"
 date: 2022-04-01T12:29:34-04:00
-draft: false
+draft: true
 
 tags: ["Projects", "BIRDgeoisie", "NFT project"]
 categories: [BIRDgeoisie]

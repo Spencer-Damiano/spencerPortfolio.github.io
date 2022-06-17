@@ -152,11 +152,11 @@ theme = "LoveIt"
 
   # Social config about the author
   [params.social]
-    GitHub = "SJD-BYUI"
+    GitHub = "Spencer-Damiano"
     Linkedin = ""
     Twitter = ""
-    Instagram = "spencerdamiano"
-    Facebook = "xxxx"
+    Instagram = ""
+    Facebook = ""
     Telegram = ""
     Medium = ""
     Gitlab = ""
